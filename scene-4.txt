@@ -1,0 +1,4 @@
+Harry Programmer and the Sorcerer's Code: Scene 4 >> scene-4.txt
+echo Harry Programmer and the Sorcerers Code: Scene 4" >> scene-4.txt
+echo "Harry Programmer and the Sorcerers Code: Scene 4
+Harry Programmer and the Sorcerer's Code: Scene 4
